@@ -1,7 +1,7 @@
-PWD c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf
+PWD c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf
 INPUT C:\Users\Jens\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\Lebenslauf_JensEttl.tex
-OUTPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.log
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\resume_v2.tex
+OUTPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.log
 INPUT .\resume.cls
 INPUT resume.cls
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -82,8 +82,8 @@ INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
-INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawesome.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawesome.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
@@ -96,6 +96,8 @@ INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawes
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawesomesymbols-pdftex.tex
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawesomesymbols-pdftex.tex
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\fontawesomesymbols-pdftex.tex
+INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
@@ -119,10 +121,10 @@ INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\ba
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux
-OUTPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.aux
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.aux
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.aux
+OUTPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.aux
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
@@ -137,14 +139,14 @@ INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-OUTPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-OUTPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.pdf
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+OUTPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+OUTPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.pdf
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -164,9 +166,9 @@ INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Jens\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesometwo.enc
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
-INPUT c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.aux
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
+INPUT c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume_v2.out
 INPUT C:\Users\Jens\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\Jens\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\Jens\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome\FontAwesome.pfb

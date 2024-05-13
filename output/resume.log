@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.25)  1 MAR 2024 13:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.25)  13 MAY 2024 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Jens/Documents/_Coding Space/tex_Lebenslauf/Lebenslauf_JensEttl.tex"
-(c:/Users/Jens/Documents/_Coding Space/tex_Lebenslauf/Lebenslauf_JensEttl.tex
+**"c:/Users/Jens/Documents/_Coding Space/_Tex/tex_Lebenslauf/resume.tex"
+(c:/Users/Jens/Documents/_Coding Space/_Tex/tex_Lebenslauf/resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-13>
 (resume.cls
@@ -168,7 +168,17 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen153
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks19
- (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+ (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count277
+\cp@tempcnt=\count278
+) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+ (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-generic.tex) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-pdftex.tex)) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip53
 \RaggedLeftLeftskip=\skip54
@@ -184,20 +194,14 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip64
 \RaggedRightParindent=\skip65
 \JustifyingParindent=\skip66
-) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome.sty
-Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
- (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-generic.tex) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-pdftex.tex)) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/02/07 v24.2 The Babel package
-\babel@savecnt=\count277
+\babel@savecnt=\count279
 \U@D=\dimen155
 \l@unhyphenated=\language79
  (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count278
+\bbl@dirlevel=\count280
 
 *************************************
 * Local config file bblopts.cfg used
@@ -225,29 +229,29 @@ Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
+\l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box53
-) (c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux)
-\openout1 = `Lebenslauf_JensEttl.aux'.
+) (c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume.aux)
+\openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -258,22 +262,22 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
  (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
+\scratchcounter=\count282
 \scratchdimen=\dimen156
 \scratchbox=\box54
-\nofMPsegments=\count281
-\nofMParguments=\count282
+\nofMPsegments=\count283
+\nofMParguments=\count284
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count283
+\MPscratchCnt=\count285
 \MPscratchDim=\dimen157
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
 \everyMPtoPDFconversion=\toks21
 )) (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 17.
- (c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out) (c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.out)
+Package hyperref Info: Link coloring ON on input line 18.
+ (c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume.out) (c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume.out)
 \@outlinefile=\write3
-\openout3 = `Lebenslauf_JensEttl.out'.
+\openout3 = `resume.out'.
 
 
 *geometry* driver: auto-detecting
@@ -311,49 +315,44 @@ Package hyperref Info: Link coloring ON on input line 17.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 17.
+(Font)              <10.95> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
+(Font)              <6> on input line 18.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 17--17
+Overfull \hbox (30.0pt too wide) in paragraph at lines 18--18
 [] 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 17.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 18.
 (C:\Users\Jens\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
+Underfull \hbox (badness 10000) in paragraph at lines 42--52
 
  []
 
 [1
 
-{C:/Users/Jens/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
-Overfull \hbox (0.26749pt too wide) in paragraph at lines 103--108
-\OT1/cmr/m/n/10.95 Analyse ei-nes um-fas-sen-den Da-ten-sat-zes aus der Stahl-pro-duk-ti-on mit Schwer-punkt auf Ober-fl[]achenunregelm[]a^^Yigkeiten.
- []
-
-[2] [3] (c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.aux)
+{C:/Users/Jens/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] (c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-13>
  ***********
-Package rerunfilecheck Info: File `Lebenslauf_JensEttl.out' has not changed.
+Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11540 strings out of 474461
- 184047 string characters out of 5743334
+ 11597 strings out of 474461
+ 185033 string characters out of 5743334
  1941998 words of memory out of 5000000
- 33715 multiletter control sequences out of 15000+600000
+ 33769 multiletter control sequences out of 15000+600000
  562725 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,93p,646b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,7n,93p,638b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Jens\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jens/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:\Users\Jens\Documents\_Coding Space\tex_Lebenslauf\output\Lebenslauf_JensEttl.pdf" (3 pages, 106219 bytes).
+Output written on "c:\Users\Jens\Documents\_Coding Space\_Tex\tex_Lebenslauf\output\resume.pdf" (3 pages, 109671 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
