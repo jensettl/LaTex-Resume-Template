@@ -16,6 +16,3 @@ This is a simple LaTex template for my resume. It uses the Harvard approach to r
 - The output PDF file will be generated in the same directory
 - Modify the content to suit your needs, and rebuild the PDF file
 
-## Copyright
-
-You are free to use, modify, and distribute this template as you see fit. If you find this template useful, please consider giving me credit by linking to my [GitHub](https://github.com/jensettl/LaTex-Resume-Template)
